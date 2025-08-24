@@ -4,6 +4,6 @@
 Change your kali linux login password 
 easily :)
 
-just a simple script made in 10 min
+just a simple script
 
 
